@@ -1,0 +1,10 @@
+node_modules
+dist/
+coverage
+.coveralls.yml
+.idea
+package.lock
+.cdrc
+.DS_Store
+.tags*
+*.bak
