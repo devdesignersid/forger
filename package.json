@@ -1,6 +1,6 @@
 {
     "name": "@devdesignersid/forger",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A lightweight TypeScript library for crafting dynamic strings by seamlessly replacing placeholders in templates with values from data objects. Simplify string generation in your projects with Forger.",
     "author": "Siddharth S Kumar",
     "exports": {
@@ -9,6 +9,22 @@
             "require": "./dist/cjs/index.js"
         }
     },
+    "keywords": [
+        "TypeScript",
+        "String manipulation",
+        "Template strings",
+        "Placeholder replacement",
+        "Dynamic string generation",
+        "Text templating",
+        "String formatting",
+        "Text rendering",
+        "Utility library",
+        "String composition",
+        "Templating engine",
+        "Text processing",
+        "String interpolation",
+        "Data-driven strings"
+    ],
     "main": "dist/cjs/index.js",
     "module": "dist/mjs/index.js",
     "types": "dist/mjs/index.d.ts",
